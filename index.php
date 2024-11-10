@@ -2,6 +2,6 @@
 
 
 
-echo "goos";
+echo "Hi";
 
 ?>
